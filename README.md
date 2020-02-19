@@ -3,6 +3,8 @@ Show the ClickUp task that became most recently due and the number of open tasks
 
 Never forget a task again!
 
+![Example touch bar](Example.jpg)
+
 ## Requirements
 - Execute `pip install requests` to install the Python requests module
 
